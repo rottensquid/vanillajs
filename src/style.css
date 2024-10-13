@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: white;
+}
+p {
+  font-weight: bold;
+  line-height: normal;
+  text-align: center;
+}
